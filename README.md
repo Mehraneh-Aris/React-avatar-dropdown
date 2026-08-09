@@ -1,24 +1,37 @@
 Profile Dropdown Menu - React
 
 A simple Profile Dropdown Menu built with React and CSS.
+
 This project was created as a learning exercise based on a YouTube tutorial about building a profile dropdown menu using React's useState hook.
 
-Technologies
+Technologies :
+
 React
+
 JavaScript
+
 CSS
+
 React Hooks
 
-What I Learned
+What I Learned :
 
 While building this project, I practiced:
+
 Using useState in React
+
 Managing component state
+
 Conditional rendering
+
 Handling click events with onClick
+
 Creating dropdown menus
+
 Styling React components with CSS
+
 Adding hover and transition effects
+
 Organizing React project files
 
 Tutorial / Credits
